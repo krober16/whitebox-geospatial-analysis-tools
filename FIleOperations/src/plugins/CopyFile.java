@@ -262,15 +262,9 @@ public class CopyFile implements WhiteboxPlugin {
 
     }
 
-<<<<<<< HEAD
-//    /**
-//     * This method is only used during testing.
-//    */
-//     
-//    //This method is only used during testing.
-=======
-    //This method is only used during testing.
->>>>>>> master
+
+//This method is only used during testing.
+
 //    public static void main(String[] args) {
 //        args = new String[2];
 //        //args[0] = "/Users/jlindsay/Documents/whitebox-geospatial-analysis-tools/WhiteboxGIS/build/classes/whiteboxgis/resources/samples/Guelph/hydrology.shp";

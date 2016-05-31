@@ -416,9 +416,5 @@ public class BalanceContrastEnhancement implements WhiteboxPlugin {
 //            
 //        }
 //    }
-<<<<<<< HEAD
-//    
-=======
-    
->>>>>>> master
+
 }
